@@ -1,0 +1,14 @@
+SVN
+VirtualBox
+
+Black box 1st law
+-Inputs, parameters, outputs
+-Iteration
+
+TRNSYS Studio
+
+Components
+-Input, parameters, outputs
+-Eg. Pump, tank, 
+
+Help
